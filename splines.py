@@ -195,4 +195,3 @@ plt.figure(2)
 plot_losses(t, losses, labels, MSE)
 
 plt.show()
-print("good")
